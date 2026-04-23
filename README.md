@@ -1,1 +1,1 @@
-Repository containing all practice examples of GitHub Actions course.
+# Repository containing all practice examples of GitHub Actions course.
